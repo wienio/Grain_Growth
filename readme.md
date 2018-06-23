@@ -1,0 +1,1 @@
+Program with JavaFX GUI for Grain Growth with diffrent Neighbours types.
